@@ -1,4 +1,4 @@
-// WebSphere Application Server Security Policy for the Default Application
+// WebSphere Application Server Security Policy for the Default Application1
 
 // Required for Snoop Servlet's call to get User Name from getUserPrincipal()
 grant codeBase "file:DefaultWebApplication.war" {
